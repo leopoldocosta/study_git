@@ -9,3 +9,4 @@ git clone, cd and git pull, git fetch, gitk -p HEAD..FETCH_HEAD or HEAD...FETCH_
 git log, git show, git show HEAD, git tag, git reset and git revert, git grep and others
 \n\n\nTesting my new post commit script, that commits after 5 commits automatically. Commit 1
 \n\n\nTesting my new post commit script, that commits after 5 commits automatically. Commit 2
+\n\n\nTesting my new post commit script, that commits after 5 commits automatically. Commit 3
