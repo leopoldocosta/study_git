@@ -16,3 +16,4 @@ git log, git show, git show HEAD, git tag, git reset and git revert, git grep an
 \n\n\nTesting my new post commit script, that commits after 5 commits automatically. Commit 2
 \n\n\nTesting my new post commit script, that commits after 5 commits automatically. Commit 3
 \n\n\nTesting my new post commit script, that commits after 5 commits automatically. Commit 4
+\n\n\nTesting my new post commit script, that commits after 5 commits automatically. Commit 5
