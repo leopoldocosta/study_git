@@ -5,3 +5,4 @@ gut diff, git diff --cached, git status, git commit -a
 git log, git log -p, git log --stat --summary
 new chage after experimental branch was created for viewing purposes
 git branch, git switch, git merge, gitk, git branch -d and -D
+git clone, cd and git pull, git fetch, gitk -p HEAD..FETCH_HEAD or HEAD...FETCH_HEAD, git remote add NAME, git fetch NAME, git log -p master..yyy/master, git config --get remote.origin.url, git branch -r
