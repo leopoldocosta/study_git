@@ -1,1 +1,4 @@
 Initialize file
+You can see what is about to be committed using git diff with the --cached option
+Line breaks are an essential aspect of text formatting and differ across various platforms and operating systems. The three primary types of line breaks are Carriage Return (CR), Line Feed (LF), and Carriage Return Line Feed (CRLF)
+gut diff, git diff --cached, git status, git commit -a
