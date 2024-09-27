@@ -4,3 +4,4 @@ Line breaks are an essential aspect of text formatting and differ across various
 gut diff, git diff --cached, git status, git commit -a
 git log, git log -p, git log --stat --summary
 new chage after experimental branch was created for viewing purposes
+git branch, git switch, git merge, gitk, git branch -d and -D
